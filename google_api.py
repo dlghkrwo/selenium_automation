@@ -9,6 +9,7 @@ doc = client.open_by_url('https://docs.google.com/spreadsheets/d/1jMSQCyB924dY34
 
 sheet1 = doc.worksheet('sheet1')
 
+
 cnt = int(sheet1.cell(1, 2).value)
 print('number of rows', cnt)
 sheet1.insert_row(['hi', 'hello/babo/kyle', '0710', 'google.com'], 3)
