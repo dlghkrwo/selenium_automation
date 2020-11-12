@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "model-azimuth-294904",
+  "private_key_id": "a6bd943ac6758994afb1f9ab542f877173abf863",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeYiuGOr1eFwg9\nZyz/ncXzaz7pkxOv++K8Tj+JTA4QmVb0Ft3fxyn7uXHT7Zl4ynHxLIctMOgLlwe7\nuXW5bKYLMocfNeHQFQfwINzmlp0eKY4vCiNofJqBESoIEmSKDVa1wY53vnTdwQIu\n1Ish4NAGz4yAUnOJjcH37xRHf5WjUqy/lVh5qa6v02gKSYEXsvmQobiBZE6DLh9n\nSIQG8Zw6BK/dabyaZZYeG4B3tuGdPu89NqIHCNTQAhVGG1nfDuJVW9YySoy8MHu/\nc5EDHMm+PZ1Ru5fovZ0X/UfXtpab3zMy2XGVnNInNjHOLP9vJi/sUS4tQeZrOgSf\nftSYfdDlAgMBAAECggEAB15nsJf01B1VnIG7eR/bV1icgmjkDn9O5iLspG2Khy3G\nYWN092Km3eRojgsf/xvJuR/j7bxr3cPGyaGc/z9ot3ZzQFNh8Hi7noNXTU67Lzpd\nhQVZCC7DHRElRJKsGDSU3a6MYdIIuIGwoWjxf8yCJGb6N8T33vHE95n2EBOFoAxE\nZky5qg7oMP6VJWMh5U3dEHnhImQCL3VE62gI7BPb2UC5vVdhwEV+3OkHg5FOVsJi\nWtMRpqQXT9Vez6YTfxPzeRWhHHFJJX1nZte0vVKF1EESxoiuLepBY4J4mvh1WMcM\n2Oi2a1stl3q815dCxwRZVXLWmWfXkqtKoHmfKzwyewKBgQDSTPHFhzBpwyU9EcRc\nSIT9vL9Ea+VPRSqS4U+U+HddhO3GvU6YEv58045voohL0hNEAIPCK4X1nKQYCOUi\npAw84ThdXvjgYyj3VYs4UEtJcihUoMPxvaIZMCG0bKtkmHjTaNp6zpOTFzzBGZ7K\n3gz/q0fNVgnKrowo5Fl6UCSX6wKBgQDAzRG/kIEOdceNwFYeop4UjOKPzSlgoRs4\nCYgqcsBoTuWCeswFKmn77iEgMpFwKoEaxrNSTSnLjVkD3KSZ/LeOrCw4jHUuNaLm\nt7ZCBvLalJk3BpFGyoa7GFKFBADvINyHIsCp8vSUeCG2sx6Z3YynP+fQ1q2pUyur\n6SJ6QgVWbwKBgDCD3bbTBEEx6tJW2fTsKfobZAiV15XdAABYiDJ2y5rAgtY5b/s3\nToxfhdmNJmJPeXBTqhHOVp4d3+FHlAzUyZn13znzIfkqBxZgHrkEFQpBkrpLSEjp\nlY64At6Lv1J6tk0XQGfaZkMltjdaAL8OUPNegTcGpUWj1OPOIjJMcNS3AoGAMlLU\neR3ssauIZLV5RRHJFTAYytQQIsqqYhwK0JmXIyLEwSPwMMD7XOiw+Mh6Mb7GaAjJ\nMYg2iozgWSO0SwUtnC3QdQokY+VYGcSF7AIITYlP3I74SHQAasFUeKes3r3DEfq+\nMx3ZPQ+GLTvfluW/GsCRb285cOLmmT6G40ZsQj0CgYA149NrjqDy3kkjZgtQH523\nYnfFgsOsFBuGKDJgjAxPbkdQkI7cfGMgmca/zBkiqskuc4AWT6z9ys+v/kMY5oQA\nLcKxtZ4UjlTnZ+ftaa9YgM4vuCeAChr/mc/9fVpjDS3gvuMyewxtESXViLeF3L+N\no48PbMktjL3rnzI7eEZ5JA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet@model-azimuth-294904.iam.gserviceaccount.com",
+  "client_id": "109117468965228864127",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet%40model-azimuth-294904.iam.gserviceaccount.com"
+}
